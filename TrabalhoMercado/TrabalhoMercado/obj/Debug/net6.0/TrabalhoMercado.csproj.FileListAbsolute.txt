@@ -1,0 +1,45 @@
+I:\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.exe
+I:\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.deps.json
+I:\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.runtimeconfig.json
+I:\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.dll
+I:\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.pdb
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.csproj.AssemblyReference.cache
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.GeneratedMSBuildEditorConfig.editorconfig
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.AssemblyInfoInputs.cache
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.AssemblyInfo.cs
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.csproj.CoreCompileInputs.cache
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.dll
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\refint\TrabalhoMercado.dll
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.pdb
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.genruntimeconfig.cache
+I:\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\ref\TrabalhoMercado.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.exe
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.deps.json
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.runtimeconfig.json
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.csproj.AssemblyReference.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.AssemblyInfoInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.AssemblyInfo.cs
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.csproj.CoreCompileInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\refint\TrabalhoMercado.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.genruntimeconfig.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\ref\TrabalhoMercado.dll
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.exe
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.deps.json
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.runtimeconfig.json
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.dll
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\bin\Debug\net6.0\TrabalhoMercado.pdb
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.csproj.AssemblyReference.cache
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.AssemblyInfoInputs.cache
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.AssemblyInfo.cs
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.csproj.CoreCompileInputs.cache
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.dll
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\refint\TrabalhoMercado.dll
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.pdb
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\TrabalhoMercado.genruntimeconfig.cache
+C:\Users\hyasmym.oliveira\Downloads\Trabalhos\TrabalhoMercado\TrabalhoMercado\obj\Debug\net6.0\ref\TrabalhoMercado.dll
